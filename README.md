@@ -1,0 +1,2 @@
+For this project we will be building a simple website with cooking recipies. You will see how I am able to use HTML to apply texts, lists, pictures, and links to help navigate the website and make it "visually appealing" 
+Stay tuned 
